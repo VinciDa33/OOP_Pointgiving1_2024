@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task3/Task3/Task3.csproj": {}
+    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task4/Task4/Task4.csproj": {}
   },
   "projects": {
-    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task3/Task3/Task3.csproj": {
+    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task4/Task4/Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task3/Task3/Task3.csproj",
-        "projectName": "Task3",
-        "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task3/Task3/Task3.csproj",
+        "projectUniqueName": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task4/Task4/Task4.csproj",
+        "projectName": "Task4",
+        "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task4/Task4/Task4.csproj",
         "packagesPath": "/Users/pp/.nuget/packages/",
-        "outputPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task3/Task3/obj/",
+        "outputPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task4/Task4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pp/.nuget/NuGet/NuGet.Config"
