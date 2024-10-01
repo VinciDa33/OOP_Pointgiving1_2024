@@ -14,11 +14,11 @@
 		*/
 
 		public static int SumOfArray(int[] arr) {
-			//Write your solution between the dotted lines!
-			//--------------------------------------------
+		//Write your solution between the dotted lines!
+		//--------------------------------------------
 
 
-			//--------------------------------------------
+		//--------------------------------------------
 		}        
 	}
 }
