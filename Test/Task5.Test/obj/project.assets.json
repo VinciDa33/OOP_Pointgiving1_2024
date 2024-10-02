@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Test\\Task5.Test\\Task5.Test.csproj",
+      "projectUniqueName": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task5.Test\\Task5.Test.csproj",
       "projectName": "Task5.Test",
-      "projectPath": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Test\\Task5.Test\\Task5.Test.csproj",
+      "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task5.Test\\Task5.Test.csproj",
       "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Test\\Task5.Test\\obj\\",
+      "outputPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task5.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1022,8 +1022,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Task5\\Task5.csproj": {
-              "projectPath": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Task5\\Task5.csproj"
+            "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task5\\Task5.csproj": {
+              "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task5\\Task5.csproj"
             }
           }
         }
