@@ -10,7 +10,6 @@
 		Within the body of the function, write code that sums up all the
 		values in the array and returns that sum. (i.e. add all the integers
 		together and return the result).
-
 		*/
 
 		public static int SumOfArray(int[] arr) {
