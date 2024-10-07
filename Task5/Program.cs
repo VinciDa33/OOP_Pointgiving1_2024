@@ -18,9 +18,9 @@
 		public static bool CheckEvenOrThrow(int number) {
 			//Write your solution between the dotted lines!
 			//--------------------------------------------
-			if (!IsEven(number))
-				throw new Exception();
-			return true;
+
+
+
 			//--------------------------------------------
 		}
 
