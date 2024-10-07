@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcu\\Desktop\\SDU\\OOP_Pointgiving1_2024\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
