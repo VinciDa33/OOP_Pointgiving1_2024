@@ -1,22 +1,24 @@
-﻿using System;
-namespace Task4{
-public class Program{
+﻿namespace Task4{
+    public class Program{
+        public static void Main(string[] args){}
 
-    /*
-    Task 4
-	Write a function which takes in two doubles as parameters, 
-	and return the first double divided with the second.
-    */
+        /* 
+        TASK 4 - Division
+        Write a function called Divide (Use this exact name for your function). 
+        This function should take in two doubles as parameters and also return a double.
+        
+        In the body of the function you must divide the first double parameter by the 
+        second double paramenter. 
+        The function must return that result.
 
-    //Write your solution between the dotted lines!
-			//--------------------------------------------
-   public static double Division(double first, double second){
-		return first/second;
-	}
-			//--------------------------------------------
+        IMPORTANT: You must prefix your function with 'public static'
+        */
 
-    public static void Main(string[] args){
-    }
 
+        //Write your solution between the dotted lines!
+
+
+
+        //--------------------------------------------
     }
 }

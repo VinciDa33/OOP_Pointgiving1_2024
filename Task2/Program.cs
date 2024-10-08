@@ -1,25 +1,23 @@
-﻿using System;
-namespace Task2{
-public class Program{
-
-    /*
-    Write a function MultipliedNumber this method should take in a parameter
-    the parameter needs to be an int. The function should also return an int.
-    The paramter int should be multiplied by 2 and returned.
-    */
-
-    //Write your solution between the dotted lines!
-			//--------------------------------------------
-
-    public static int MultipliedNumber(int n){
-        return n*2;
-    }
-			//--------------------------------------------
-
-    public static void Main(string[] args){
+﻿namespace Task2 {
+    public class Program {
+        public static void Main(string[] args){}
         
+        /* 
+        TASK 2 - Multiply and return
+        Write a function called MultiplyAndReturn (Use this exact name for your function). 
+        This function should take in an integer as a parameter and also return an integer.
+        
+        In the body of the function you must multiply the integer parameter by 2 and
+        return it.
 
-    }
+        IMPORTANT: You must prefix your function with 'public static'
+        */
 
+
+        //Write your solution between the dotted lines!
+
+
+
+        //--------------------------------------------
     }
 }
