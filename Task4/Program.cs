@@ -4,7 +4,8 @@ public class Program{
 
     /*
     Task 4
-	Write a function which takes in two doubles, return the first double divided with the second.
+	Write a function which takes in two doubles as parameters, 
+	and return the first double divided with the second.
     */
 
     //Write your solution between the dotted lines!
