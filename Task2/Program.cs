@@ -1,6 +1,6 @@
 ﻿namespace Task2 {
     public class Program {
-        public static void Main(string[] args){}
+        public static void Main(string[] args) {}
         
         /* 
         TASK 2 - Multiply and return
