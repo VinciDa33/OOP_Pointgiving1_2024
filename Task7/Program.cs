@@ -20,9 +20,9 @@
 
 
         //Write your solution between the dotted lines!
-        public static string Greeting(string name) {
-            return "Hello " + name;
-        }
+
+
+
         //--------------------------------------------
         
     }

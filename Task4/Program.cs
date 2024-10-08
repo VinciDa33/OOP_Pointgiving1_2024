@@ -16,9 +16,9 @@
 
 
         //Write your solution between the dotted lines!
-        public static double Divide(double first, double second) {
-            return first / second;
-        }
+
+
+
         //--------------------------------------------
     }
 }
