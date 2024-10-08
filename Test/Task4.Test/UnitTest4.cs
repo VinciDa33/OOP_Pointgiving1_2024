@@ -3,41 +3,44 @@ namespace Task4.Test;
 public class Tests
 {
     [Test]
-    public void MultipliedNumber_WithPositiveInteger_ReturnsDoubledValue()
+    public void Division_WithPositiveInteger_ReturnsDoubledValue()
     {
-        int input = 5;
-        int expectedOutput = 10;
+       double inputOne = 12.0;
+       double inputTwo = 1.5;
+       
+       double expectedOutput = 8;
+       
+       double actualOutput = Program.Division(inputOne, inputTwo);
 
-
-        int actualOutput = Program.MultipliedNumber(input);
-        
-        Assert.IsTrue(expectedOutput == actualOutput);
+       Assert.IsTrue(expectedOutput == actualOutput);
     }
 
     [Test]
-    public void MultipliedNumber_WithNegativeInteger_ReturnsDoubledValue()
+    public void Division_WithNegativeInteger_ReturnsDoubledValue()
     {
-        int input = -3;
-        int expectedOutput = -6;
+        double inputOne = -12.0;
+        double inputTwo = -1.5;
+        double expectedOutput = 8;
 
 
-        int actualOutput = Program.MultipliedNumber(input);
+        double actualOutput = Program.Division(inputOne, inputTwo);
 
 
         Assert.IsTrue(expectedOutput == actualOutput);
     }
-
+    
     [Test]
-    public void MultipliedNumber_WithZero_ReturnsZero()
+    public void Division_WithOneNegativeInteger_ReturnsDoubledValue()
     {
-        
-        int input = 0;
-        int expectedOutput = 0;
+        double inputOne = 12.0;
+        double inputTwo = -1.5;
+        double expectedOutput = -8;
 
-        
-        int actualOutput = Program.MultipliedNumber(input);
 
-        
+        double actualOutput = Program.Division(inputOne, inputTwo);
+
+
         Assert.IsTrue(expectedOutput == actualOutput);
     }
+    
 }
