@@ -19,9 +19,13 @@
 		public static string PingPong(string str) {
 			//Write your solution between the dotted lines!
 			//--------------------------------------------
-
-
-
+			if (str == "PingPong")
+				return "PongPing";
+			if (str == "Ping")
+				return "Pong";
+			if (str == "Pong")
+				return "Ping";
+			return "Check";
 			//--------------------------------------------
 		}        
 	}

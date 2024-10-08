@@ -15,9 +15,9 @@
 
 
         //Write your solution between the dotted lines!
-
-
-
+        public static int MultiplyAndReturn(int num) {
+            return num * 2;
+        }
         //--------------------------------------------
     }
 }

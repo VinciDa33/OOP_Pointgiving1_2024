@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/pp/.nuget/packages/": {}
+    "C:\\Users\\marcu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj",
-      "packagesPath": "/Users/pp/.nuget/packages/",
-      "outputPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/obj/",
+      "projectUniqueName": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task6\\Task6.csproj",
+      "projectName": "Task6",
+      "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task6\\Task6.csproj",
+      "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pp/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
