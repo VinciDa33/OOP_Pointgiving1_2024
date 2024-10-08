@@ -983,8 +983,8 @@
     },
     "Task2/1.0.0": {
       "type": "project",
-      "path": "../Task2/Task2.csproj",
-      "msbuildProject": "../Task2/Task2.csproj"
+      "path": "../../Task2/Task2.csproj",
+      "msbuildProject": "../../Task2/Task2.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task2/Task2.Test/Task2.Test.csproj",
+      "projectUniqueName": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Test/Task2.Test/Task2.Test.csproj",
       "projectName": "Task2.Test",
-      "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task2/Task2.Test/Task2.Test.csproj",
+      "projectPath": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Test/Task2.Test/Task2.Test.csproj",
       "packagesPath": "/Users/pp/.nuget/packages/",
-      "outputPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task2/Task2.Test/obj/",
+      "outputPath": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Test/Task2.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pp/.nuget/NuGet/NuGet.Config"
@@ -1022,8 +1022,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/pp/Documents/OOP_Pointgiving1_2024/Task2/Task2/Task2.csproj": {
-              "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task2/Task2/Task2.csproj"
+            "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task2/Task2.csproj": {
+              "projectPath": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task2/Task2.csproj"
             }
           }
         }

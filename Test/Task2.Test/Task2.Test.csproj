@@ -20,6 +20,7 @@
   <ItemGroup>
     <Using Include="NUnit.Framework" />
   </ItemGroup>
+  
   <ItemGroup>
     <ProjectReference Include="..\..\Task2\Task2.csproj" />
   </ItemGroup>

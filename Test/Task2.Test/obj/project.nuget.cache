@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N4iPPlSx1+4=",
+  "dgSpecHash": "cBnkKKF5VIs=",
   "success": true,
-  "projectFilePath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task2/Task2.Test/Task2.Test.csproj",
+  "projectFilePath": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Test/Task2.Test/Task2.Test.csproj",
   "expectedPackageFiles": [
     "/Users/pp/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/pp/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
