@@ -11,7 +11,7 @@
 		of the two integers in the array.
 		*/
 
-		public static void FlipPositions(int[] array) {
+		public static void FlipPositions(int[] arr) {
 			//Write your solution between the dotted lines!
 			//--------------------------------------------
 

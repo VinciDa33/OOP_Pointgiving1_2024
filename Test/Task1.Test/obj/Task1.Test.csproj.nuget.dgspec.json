@@ -1,20 +1,78 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1.Test/Task1.Test.csproj": {}
+    "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task1.Test\\Task1.Test.csproj": {}
   },
   "projects": {
-    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1.Test/Task1.Test.csproj": {
+    "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1.Test/Task1.Test.csproj",
-        "projectName": "Task1.Test",
-        "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1.Test/Task1.Test.csproj",
-        "packagesPath": "/Users/pp/.nuget/packages/",
-        "outputPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1.Test/obj/",
+        "projectUniqueName": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj",
+        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pp/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task1.Test\\Task1.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task1.Test\\Task1.Test.csproj",
+        "projectName": "Task1.Test",
+        "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task1.Test\\Task1.Test.csproj",
+        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Test\\Task1.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj": {
-                "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj"
+              "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj": {
+                "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task1\\Task1.csproj"
               }
             }
           }
@@ -84,65 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj",
-        "projectName": "Task1",
-        "projectPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/Task1.csproj",
-        "packagesPath": "/Users/pp/.nuget/packages/",
-        "outputPath": "/Users/pp/Documents/OOP_Pointgiving1_2024/Task1/Task1/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/pp/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
