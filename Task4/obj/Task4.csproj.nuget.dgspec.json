@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task4/Task4.csproj": {}
+    "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task4/Task4.csproj": {
+    "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task4/Task4.csproj",
+        "projectUniqueName": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task4/Task4.csproj",
-        "packagesPath": "/Users/pp/.nuget/packages/",
-        "outputPath": "/Users/pp/RiderProjects/OOP_Pointgiving1_2024/Task4/obj/",
+        "projectPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task4\\Task4.csproj",
+        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcu\\Desktop\\OOP_Pointgiving1_2024\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pp/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
