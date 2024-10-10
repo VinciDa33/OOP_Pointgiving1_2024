@@ -13,8 +13,8 @@
     */
 
     //Write your solution between the dotted lines!
-
-   
-   
+    public int MultiplyAndReturn(int num) {
+        return num * 2;
+    }
     //--------------------------------------------
 }

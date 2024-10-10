@@ -20,8 +20,8 @@
 
     //Write your solution between the dotted lines!
     //--------------------------------------------
-
-
-
+    public string Greeting(string name) {
+        return "Hello " + name;
+    }
     //--------------------------------------------
 }

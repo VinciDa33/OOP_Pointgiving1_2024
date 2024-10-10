@@ -7,7 +7,7 @@ public class Tests
     {
         Program p = new Program();
         Assert.IsTrue(p.SumOfArray(new int[] {5, 8}) == 13);
-        Assert.IsTrue(P.SumOfArray(new int[] {112, 57, 2, 43}) == 214);
+        Assert.IsTrue(p.SumOfArray(new int[] {112, 57, 2, 43}) == 214);
         Assert.IsTrue(p.SumOfArray(new int[] {15, 5}) == 20);
         Assert.IsTrue(p.SumOfArray(new int[] {45, 15, 40}) == 100);
         Assert.IsTrue(p.SumOfArray(new int[] {7, 9, 13}) == 29);

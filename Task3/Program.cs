@@ -10,12 +10,12 @@
 	of the two integers in the array.
 	*/
 
-	public static void FlipPositions(int[] arr) {
+	public void FlipPositions(int[] arr) {
 		//Write your solution between the dotted lines!
 		//--------------------------------------------
-
-    
-    
+		int hold = arr[0];
+		arr[0] = arr[1];
+    	arr[1] = hold;
 		//--------------------------------------------
 	}        
 }

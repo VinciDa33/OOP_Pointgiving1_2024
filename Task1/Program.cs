@@ -11,12 +11,13 @@
 	together and return the result).
 	*/
 
-	public static int SumOfArray(int[] arr) {
+	public int SumOfArray(int[] arr) {
 		//Write your solution between the dotted lines!
 		//--------------------------------------------
-
-
-
+		int sum = 0;
+		for (int i = 0; i < arr.Length; i++)
+			sum += arr[i];
+		return sum;
 		//--------------------------------------------
 	}        
 }
