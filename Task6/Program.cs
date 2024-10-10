@@ -3,10 +3,10 @@
 
 	/*
 	TASK 6 - PingPong
-	Below is a function that returns a string and takes a
+	Below is a method that returns a string and takes a
 	string as its parameter.
 
-	Within the body of the function, write code that checks 
+	Within the body of the method, write code that checks 
 	and does the following.
 
 	1. If the string variable 'str' contains the value  "PingPong" you should return "PongPing".

@@ -3,32 +3,39 @@ namespace Task6.Test;
 public class Tests
 {
 
-
     [Test]
     public void TestPingPong()
     {
-        Assert.IsTrue(Program.PingPong("PingPong").Equals("PongPing"));
+        Program p = new Program();
+
+        Assert.IsTrue(p.PingPong("PingPong").Equals("PongPing"));
     }
 
     [Test]
     public void TestPing()
     {
-        Assert.IsTrue(Program.PingPong("Ping").Equals("Pong"));
+        Program p = new Program();
+
+        Assert.IsTrue(p.PingPong("Ping").Equals("Pong"));
     }
 
     [Test]
     public void TestPong()
     {
-        Assert.IsTrue(Program.PingPong("Pong").Equals("Ping"));
+        Program p = new Program();
+
+        Assert.IsTrue(p.PingPong("Pong").Equals("Ping"));
     }
 
         [Test]
     public void TestCheck()
     {
-        Assert.IsTrue(Program.PingPong("Banana").Equals("Check"));
-        Assert.IsTrue(Program.PingPong("Apple").Equals("Check"));
-        Assert.IsTrue(Program.PingPong("FASKGFJSKFA").Equals("Check"));
-        Assert.IsTrue(Program.PingPong("111111").Equals("Check"));
-        Assert.IsTrue(Program.PingPong("Lorem Ipsum").Equals("Check"));
+        Program p = new Program();
+
+        Assert.IsTrue(p.PingPong("Banana").Equals("Check"));
+        Assert.IsTrue(p.PingPong("Apple").Equals("Check"));
+        Assert.IsTrue(p.PingPong("FASKGFJSKFA").Equals("Check"));
+        Assert.IsTrue(p.PingPong("111111").Equals("Check"));
+        Assert.IsTrue(p.PingPong("Lorem Ipsum").Equals("Check"));
     }
 }

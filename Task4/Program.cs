@@ -3,14 +3,14 @@
 
     /* 
     TASK 4 - Division
-    Write a function called Divide (Use this exact name for your function). 
-    This function should take in two doubles as parameters and also return a double.
+    Write a method called Divide (Use this exact name for your method). 
+    This method should take in two doubles as parameters and also return a double.
     
-    In the body of the function you must divide the first double parameter by the 
+    In the body of the method you must divide the first double parameter by the 
     second double paramenter. 
-    The function must return that result.
+    The method must return that result.
 
-    IMPORTANT: You must prefix your function with 'public static'
+    IMPORTANT: Your method must be public!
     */
 
 

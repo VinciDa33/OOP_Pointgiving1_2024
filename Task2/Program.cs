@@ -3,19 +3,18 @@
     
     /* 
     TASK 2 - Multiply and return
-    Write a function called MultiplyAndReturn (Use this exact name for your function). 
-    This function should take in an integer as a parameter and also return an integer.
+    Write a method called MultiplyAndReturn (Use this exact name for your method). 
+    This method should take in an integer as a parameter and also return an integer.
     
-    In the body of the function you must multiply the integer parameter by 2 and
+    In the body of the method you must multiply the integer parameter by 2 and
     return it.
 
-    IMPORTANT: You must prefix your function with 'public static'
+    IMPORTANT: Your method must be public!
     */
-
 
     //Write your solution between the dotted lines!
 
-
-
+   
+   
     //--------------------------------------------
 }
