@@ -15,8 +15,8 @@
 
 
     //Write your solution between the dotted lines!
-    public double Divide(double first, double second) {
-        return first / second;
-    }
+
+
+
     //--------------------------------------------
 }
