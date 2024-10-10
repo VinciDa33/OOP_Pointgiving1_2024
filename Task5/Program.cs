@@ -14,7 +14,7 @@
 	(Do not handle the exception yourself!)	
 	*/
 
-	public static bool CheckEvenOrThrow(int number) {
+	public bool CheckEvenOrThrow(int number) {
 		//Write your solution between the dotted lines!
 		//--------------------------------------------
 

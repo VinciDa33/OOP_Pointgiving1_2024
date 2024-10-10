@@ -15,7 +15,7 @@
 	4. In all other cases you should return "Check"
 	*/
 
-	public static string PingPong(string str) {
+	public string PingPong(string str) {
 		//Write your solution between the dotted lines!
 		//--------------------------------------------
 

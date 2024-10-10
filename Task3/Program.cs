@@ -10,7 +10,7 @@
 	of the two integers in the array.
 	*/
 
-	public static void FlipPositions(int[] arr) {
+	public void FlipPositions(int[] arr) {
 		//Write your solution between the dotted lines!
 		//--------------------------------------------
 
