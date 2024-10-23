@@ -8,7 +8,7 @@
     The method must also return a string.
     
     In the body of the method you must combine the parameter string with "Hello "
-    to return the output "hello <name>"
+    to return the output "Hello <name>"
 
     EXAMPLE:
     parameter input: "Jakob"

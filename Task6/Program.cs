@@ -9,9 +9,9 @@
 	Within the body of the method, write code that checks 
 	and does the following.
 
-	1. If the string variable 'str' contains the value  "PingPong" you should return "PongPing".
-	2. If the string variable 'str' contains the value  "Ping" you should return "Pong".
-	3. If the string variable 'str' contains the value  "Pong" you should return "Ping".
+	1. If the string variable 'str' is equal to the value  "PingPong" you should return "PongPing".
+	2. If the string variable 'str' is equal to the value  "Ping" you should return "Pong".
+	3. If the string variable 'str' is equal to the value  "Pong" you should return "Ping".
 	4. In all other cases you should return "Check"
 	*/
 
